@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2609" started-at="2022-05-22T11:06:16Z" finished-at="2022-05-22T11:06:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2609" started-at="2022-05-22T11:06:16Z" finished-at="2022-05-22T11:06:19Z">
+      <class name="com.automation.restapi.restassured.GetAndPrintAllHeaders">
+        <test-method status="PASS" signature="getWeatherDetails()[pri:0, instance:com.automation.restapi.restassured.GetAndPrintAllHeaders@36d4b5c]" name="getWeatherDetails" duration-ms="2589" started-at="2022-05-22T16:36:16Z" finished-at="2022-05-22T16:36:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWeatherDetails -->
+      </class> <!-- com.automation.restapi.restassured.GetAndPrintAllHeaders -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
