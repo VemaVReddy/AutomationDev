@@ -13,7 +13,7 @@ public class PostRequest {
 	
 	@Test
 	public void postDetails() {
-	//Specify Base URI
+	//Specify Base URI in below code
 			RestAssured.baseURI = "https://reqres.in/";
 			
 			//Request Object
